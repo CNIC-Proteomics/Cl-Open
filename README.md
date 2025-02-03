@@ -16,3 +16,9 @@ However, new functions can be incorporated using the developer tool.
 
 # Requirements 
 Python
+
+# Execution
+
+Download the folder and run GUI.py. Some required libraries may not be installed.
+
+If you need a .exe version with all the libraries included, please contact the developer.
