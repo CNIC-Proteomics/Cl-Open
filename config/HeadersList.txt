@@ -1,0 +1,32 @@
+Open Columns	Close Columns	Functions
+scan	First Scan	
+num		num_function
+charge	Charge	
+exp_neutral_mass		exp_neutral_mass
+calc_neutral_mass		theorical_mass
+e-value		
+xcorr	XCorr	
+xcorr_corr		xcorr_corr
+delta_cn		
+sp_score		
+ions_matched		
+ions_total		
+plain_peptide	Sequence	
+modified_peptide		change_modifiedpeptide
+prev_aa		prev_aa
+next_aa		next_aa
+protein		change_sep
+protein_count		count_acc
+modifications		set_fix_mod
+retention_time	RT [min]	
+exp_mz		exp_mz
+delta_mods		
+b_series_delta_mods		
+y_series_delta_mods		
+delta_peptide		
+NonMod_Xcorr		
+Closest_Deltamass		NA_def
+Closest_Xcorr		NA_def
+Closest_Xcorr_corr		NA_def
+Best_Xcorr		xcorr_corr
+Closest_peptide		NA_def

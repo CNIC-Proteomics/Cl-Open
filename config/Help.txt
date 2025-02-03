@@ -1,0 +1,20 @@
+####  ClOpen ####
+
+The ClOpen is a program that allows you to join and compare the outputs of an OpenSearch (such as Comet-PTM) with one from CloseSearch (such as Proteome Discoverer). The program is open-ended in that it reads a table where the headers of the Open file and their equivalents in Close are indicated. Often, there is no exact equivalence, so various functions have been created to create the equivalent column with the data provided by Close.
+
+	#### How it works ###
+
+	- Provide an Open or Close file in the inputs for this, or provide a txt with the equivalences if you want to do it for more than one. It is important that it contains the scan column or an equivalent, as they will be joined at this level.
+
+	- You can also provide a list of peptides and/or modifications to filter the close file before joining it to the open.
+
+	-Then, for filtering scans, you have 3 modes:
+		- xcorr, which will choose the candidate with the highest xcorr for the same scan
+		- open, which prioritizes scans from the open
+		- close, which prioritizes scans from the close
+
+
+
+
+
+

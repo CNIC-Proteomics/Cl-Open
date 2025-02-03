@@ -1,0 +1,1556 @@
+﻿<Modifications>
+  <LicenseInformation>
+    <!--Portions of this file contain information from Unimod. (http://www.unimod.org/unimod_help.html)
+Unimod is a public domain database, distributed under a copyleft licence: "a copyright notice that permits unrestricted redistribution and modification, provided that all copies and derivatives retain the same permissions."-->
+  </LicenseInformation>
+  <Modification Version="1" Name="Acetyl" Abbreviation="Acetyl" UnimodAccession="1" IsOriginalUnimodModification="True" DeltaMass="42.010565" DeltaAverageMass="42.0367" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C(2) O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="H" Classification="Chemical_derivative" />
+      <Target AminoAcid="K" Classification="Multiple" />
+      <Target AminoAcid="R" Classification="Artefact" />
+      <Target AminoAcid="S" Classification="Post_translational" />
+      <Target AminoAcid="T" Classification="Post_translational" />
+      <Target AminoAcid="Y" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Acetyl" Abbreviation="Acetyl" UnimodAccession="1" IsOriginalUnimodModification="True" DeltaMass="42.010565" DeltaAverageMass="42.0367" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C(2) O" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Acetyl" Abbreviation="Acetyl" UnimodAccession="1" IsOriginalUnimodModification="True" DeltaMass="42.010565" DeltaAverageMass="42.0367" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C(2) O" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Multiple" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Amidated" Abbreviation="Amidated" UnimodAccession="2" IsOriginalUnimodModification="True" DeltaMass="-0.984016" DeltaAverageMass="-0.9848" IsSubstitution="False" LeavingGroup="" Substitution="H N O(-1)" PositionType="Any_C_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Cte" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Amidated" Abbreviation="Amidated" UnimodAccession="2" IsOriginalUnimodModification="True" DeltaMass="-0.984016" DeltaAverageMass="-0.9848" IsSubstitution="False" LeavingGroup="" Substitution="H N O(-1)" PositionType="Protein_C_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Cte" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carbamidomethyl" Abbreviation="Carbamidomethyl" UnimodAccession="4" IsOriginalUnimodModification="True" DeltaMass="57.021464" DeltaAverageMass="57.0513" IsSubstitution="False" LeavingGroup="" Substitution="H(3) C(2) N O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Chemical_derivative" />
+      <Target AminoAcid="D" Classification="Artefact" />
+      <Target AminoAcid="E" Classification="Artefact" />
+      <Target AminoAcid="H" Classification="Artefact" />
+      <Target AminoAcid="K" Classification="Artefact" />
+      <Target AminoAcid="M" Classification="Chemical_derivative">
+        <NeutralLosses>
+          <NeutralLoss Name="H(7) C(3) N O S" AverageMass="105.1588" Mass="105.024835" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="S" Classification="Artefact" />
+      <Target AminoAcid="T" Classification="Artefact" />
+      <Target AminoAcid="U" Classification="Chemical_derivative" />
+      <Target AminoAcid="Y" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carbamidomethyl" Abbreviation="Carbamidomethyl" UnimodAccession="4" IsOriginalUnimodModification="True" DeltaMass="57.021464" DeltaAverageMass="57.0513" IsSubstitution="False" LeavingGroup="" Substitution="H(3) C(2) N O" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carbamyl" Abbreviation="Carbamyl" UnimodAccession="5" IsOriginalUnimodModification="True" DeltaMass="43.005814" DeltaAverageMass="43.0247" IsSubstitution="False" LeavingGroup="" Substitution="H C N O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Artefact" />
+      <Target AminoAcid="K" Classification="Multiple" />
+      <Target AminoAcid="M" Classification="Artefact" />
+      <Target AminoAcid="R" Classification="Artefact" />
+      <Target AminoAcid="S" Classification="Chemical_derivative" />
+      <Target AminoAcid="T" Classification="Chemical_derivative" />
+      <Target AminoAcid="Y" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carbamyl" Abbreviation="Carbamyl" UnimodAccession="5" IsOriginalUnimodModification="True" DeltaMass="43.005814" DeltaAverageMass="43.0247" IsSubstitution="False" LeavingGroup="" Substitution="H C N O" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Multiple" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carbamyl" Abbreviation="Carbamyl" UnimodAccession="5" IsOriginalUnimodModification="True" DeltaMass="43.005814" DeltaAverageMass="43.0247" IsSubstitution="False" LeavingGroup="" Substitution="H C N O" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carboxymethyl" Abbreviation="Carboxymethyl" UnimodAccession="6" IsOriginalUnimodModification="True" DeltaMass="58.005479" DeltaAverageMass="58.0361" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C(2) O(2)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Carboxymethyl" Abbreviation="Carboxymethyl" UnimodAccession="6" IsOriginalUnimodModification="True" DeltaMass="58.005479" DeltaAverageMass="58.0361" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C(2) O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Chemical_derivative" />
+      <Target AminoAcid="K" Classification="Artefact" />
+      <Target AminoAcid="U" Classification="Chemical_derivative" />
+      <Target AminoAcid="W" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Deamidated" Abbreviation="Deamidated" UnimodAccession="7" IsOriginalUnimodModification="True" DeltaMass="0.984016" DeltaAverageMass="0.9848" IsSubstitution="False" LeavingGroup="" Substitution="H(-1) N(-1) O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="N" Classification="Artefact" />
+      <Target AminoAcid="Q" Classification="Artefact" />
+      <Target AminoAcid="R" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="H C N O" AverageMass="43.0247" Mass="43.005814" />
+        </NeutralLosses>
+      </Target>
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Deamidated" Abbreviation="Deamidated" UnimodAccession="7" IsOriginalUnimodModification="True" DeltaMass="0.984016" DeltaAverageMass="0.9848" IsSubstitution="False" LeavingGroup="" Substitution="H(-1) N(-1) O" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="F" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Phospho" Abbreviation="Phospho" UnimodAccession="21" IsOriginalUnimodModification="True" DeltaMass="79.966331" DeltaAverageMass="79.9799" IsSubstitution="False" LeavingGroup="" Substitution="H O(3) P" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="D" Classification="Post_translational" />
+      <Target AminoAcid="E" Classification="Post_translational" />
+      <Target AminoAcid="H" Classification="Post_translational" />
+      <Target AminoAcid="K" Classification="Post_translational" />
+      <Target AminoAcid="R" Classification="Post_translational" />
+      <Target AminoAcid="S" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="H(3) O(4) P" AverageMass="97.9952" Mass="97.976896" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="T" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="H(3) O(4) P" AverageMass="97.9952" Mass="97.976896" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="Y" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Propionamide" Abbreviation="Propionamide" UnimodAccession="24" IsOriginalUnimodModification="True" DeltaMass="71.037114" DeltaAverageMass="71.0779" IsSubstitution="False" LeavingGroup="" Substitution="H(5) C(3) N O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Artefact" />
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Propionamide" Abbreviation="Propionamide" UnimodAccession="24" IsOriginalUnimodModification="True" DeltaMass="71.037114" DeltaAverageMass="71.0779" IsSubstitution="False" LeavingGroup="" Substitution="H(5) C(3) N O" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Gln-&gt;pyro-Glu" Abbreviation="Gln-&gt;pyro-Glu" UnimodAccession="28" IsOriginalUnimodModification="True" DeltaMass="-17.026549" DeltaAverageMass="-17.0305" IsSubstitution="False" LeavingGroup="" Substitution="H(-3) N(-1)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Q" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Methyl" Abbreviation="Methyl" UnimodAccession="34" IsOriginalUnimodModification="True" DeltaMass="14.01565" DeltaAverageMass="14.0266" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="D" Classification="Post_translational" />
+      <Target AminoAcid="E" Classification="Post_translational" />
+      <Target AminoAcid="H" Classification="Post_translational" />
+      <Target AminoAcid="I" Classification="Post_translational" />
+      <Target AminoAcid="K" Classification="Post_translational" />
+      <Target AminoAcid="L" Classification="Post_translational" />
+      <Target AminoAcid="N" Classification="Post_translational" />
+      <Target AminoAcid="Q" Classification="Post_translational" />
+      <Target AminoAcid="R" Classification="Post_translational" />
+      <Target AminoAcid="S" Classification="Post_translational" />
+      <Target AminoAcid="T" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Methyl" Abbreviation="Methyl" UnimodAccession="34" IsOriginalUnimodModification="True" DeltaMass="14.01565" DeltaAverageMass="14.0266" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C" PositionType="Any_C_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Cte" Classification="Multiple" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Methyl" Abbreviation="Methyl" UnimodAccession="34" IsOriginalUnimodModification="True" DeltaMass="14.01565" DeltaAverageMass="14.0266" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Methyl" Abbreviation="Methyl" UnimodAccession="34" IsOriginalUnimodModification="True" DeltaMass="14.01565" DeltaAverageMass="14.0266" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Oxidation" Abbreviation="Oxidation" UnimodAccession="35" IsOriginalUnimodModification="True" DeltaMass="15.994915" DeltaAverageMass="15.9994" IsSubstitution="False" LeavingGroup="" Substitution="O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="D" Classification="Post_translational" />
+      <Target AminoAcid="E" Classification="Chemical_derivative" />
+      <Target AminoAcid="F" Classification="Artefact" />
+      <Target AminoAcid="H" Classification="Artefact" />
+      <Target AminoAcid="I" Classification="Chemical_derivative" />
+      <Target AminoAcid="K" Classification="Post_translational" />
+      <Target AminoAcid="L" Classification="Chemical_derivative" />
+      <Target AminoAcid="M" Classification="Artefact">
+        <NeutralLosses>
+          <NeutralLoss Name="H(4) C O S" AverageMass="64.1069" Mass="63.998285" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="N" Classification="Post_translational" />
+      <Target AminoAcid="P" Classification="Post_translational" />
+      <Target AminoAcid="Q" Classification="Chemical_derivative" />
+      <Target AminoAcid="R" Classification="Post_translational" />
+      <Target AminoAcid="S" Classification="Chemical_derivative" />
+      <Target AminoAcid="T" Classification="Chemical_derivative" />
+      <Target AminoAcid="U" Classification="Multiple" />
+      <Target AminoAcid="V" Classification="Chemical_derivative" />
+      <Target AminoAcid="W" Classification="Artefact" />
+      <Target AminoAcid="Y" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Oxidation" Abbreviation="Oxidation" UnimodAccession="35" IsOriginalUnimodModification="True" DeltaMass="15.994915" DeltaAverageMass="15.9994" IsSubstitution="False" LeavingGroup="" Substitution="O" PositionType="Any_C_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="G" Classification="Pre_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl" Abbreviation="Dimethyl" UnimodAccession="36" IsOriginalUnimodModification="True" DeltaMass="28.0313" DeltaAverageMass="28.0532" IsSubstitution="False" LeavingGroup="" Substitution="H(4) C(2)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+      <Target AminoAcid="P" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl" Abbreviation="Dimethyl" UnimodAccession="36" IsOriginalUnimodModification="True" DeltaMass="28.0313" DeltaAverageMass="28.0532" IsSubstitution="False" LeavingGroup="" Substitution="H(4) C(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Multiple" />
+      <Target AminoAcid="N" Classification="Post_translational" />
+      <Target AminoAcid="R" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl" Abbreviation="Dimethyl" UnimodAccession="36" IsOriginalUnimodModification="True" DeltaMass="28.0313" DeltaAverageMass="28.0532" IsSubstitution="False" LeavingGroup="" Substitution="H(4) C(2)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Trimethyl" Abbreviation="Trimethyl" UnimodAccession="37" IsOriginalUnimodModification="True" DeltaMass="42.04695" DeltaAverageMass="42.0797" IsSubstitution="False" LeavingGroup="" Substitution="H(6) C(3)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="A" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Trimethyl" Abbreviation="Trimethyl" UnimodAccession="37" IsOriginalUnimodModification="True" DeltaMass="42.04695" DeltaAverageMass="42.0797" IsSubstitution="False" LeavingGroup="" Substitution="H(6) C(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="H(9) C(3) N" AverageMass="59.1103" Mass="59.073499" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="R" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Methylthio" Abbreviation="Methylthio" UnimodAccession="39" IsOriginalUnimodModification="True" DeltaMass="45.987721" DeltaAverageMass="46.0916" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C S" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Multiple" />
+      <Target AminoAcid="D" Classification="Post_translational" />
+      <Target AminoAcid="K" Classification="Artefact" />
+      <Target AminoAcid="N" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Methylthio" Abbreviation="Methylthio" UnimodAccession="39" IsOriginalUnimodModification="True" DeltaMass="45.987721" DeltaAverageMass="46.0916" IsSubstitution="False" LeavingGroup="" Substitution="H(2) C S" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Sulfo" Abbreviation="Sulfo" UnimodAccession="40" IsOriginalUnimodModification="True" DeltaMass="79.956815" DeltaAverageMass="80.0632" IsSubstitution="False" LeavingGroup="" Substitution="O(3) S" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="S" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="O(3) S" AverageMass="80.0632" Mass="79.956815" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="T" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="O(3) S" AverageMass="80.0632" Mass="79.956815" />
+        </NeutralLosses>
+      </Target>
+      <Target AminoAcid="Y" Classification="Post_translational">
+        <NeutralLosses>
+          <NeutralLoss Name="O(3) S" AverageMass="80.0632" Mass="79.956815" />
+        </NeutralLosses>
+      </Target>
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Palmitoyl" Abbreviation="Palmitoyl" UnimodAccession="47" IsOriginalUnimodModification="True" DeltaMass="238.229666" DeltaAverageMass="238.4088" IsSubstitution="False" LeavingGroup="" Substitution="H(30) C(16) O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="K" Classification="Post_translational" />
+      <Target AminoAcid="S" Classification="Post_translational" />
+      <Target AminoAcid="T" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Palmitoyl" Abbreviation="Palmitoyl" UnimodAccession="47" IsOriginalUnimodModification="True" DeltaMass="238.229666" DeltaAverageMass="238.4088" IsSubstitution="False" LeavingGroup="" Substitution="H(30) C(16) O" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Trioxidation" Abbreviation="Trioxidation" UnimodAccession="345" IsOriginalUnimodModification="True" DeltaMass="47.984744" DeltaAverageMass="47.9982" IsSubstitution="False" LeavingGroup="" Substitution="O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Chemical_derivative" />
+      <Target AminoAcid="F" Classification="Artefact" />
+      <Target AminoAcid="W" Classification="Chemical_derivative" />
+      <Target AminoAcid="Y" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Nitro" Abbreviation="Nitro" UnimodAccession="354" IsOriginalUnimodModification="True" DeltaMass="44.985078" DeltaAverageMass="44.9976" IsSubstitution="False" LeavingGroup="" Substitution="H(-1) N O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="F" Classification="Artefact" />
+      <Target AminoAcid="W" Classification="Chemical_derivative" />
+      <Target AminoAcid="Y" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="ICAT-C" Abbreviation="ICAT-C" UnimodAccession="105" IsOriginalUnimodModification="True" DeltaMass="227.126991" DeltaAverageMass="227.2603" IsSubstitution="False" LeavingGroup="" Substitution="H(17) C(10) N(3) O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="ICAT-C:13C(9)" Abbreviation="ICAT-C:13C(9)" UnimodAccession="106" IsOriginalUnimodModification="True" DeltaMass="236.157185" DeltaAverageMass="236.1942" IsSubstitution="False" LeavingGroup="" Substitution="H(17) C 13C(9) N(3) O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Nethylmaleimide" Abbreviation="Nethylmaleimide" UnimodAccession="108" IsOriginalUnimodModification="True" DeltaMass="125.047679" DeltaAverageMass="125.1253" IsSubstitution="False" LeavingGroup="" Substitution="H(7) C(6) N O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="GG" Abbreviation="GG" UnimodAccession="121" IsOriginalUnimodModification="True" DeltaMass="114.042927" DeltaAverageMass="114.1026" IsSubstitution="False" LeavingGroup="" Substitution="H(6) C(4) N(2) O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Other" />
+      <Target AminoAcid="K" Classification="Other" />
+      <Target AminoAcid="S" Classification="Other" />
+      <Target AminoAcid="T" Classification="Other" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Formyl" Abbreviation="Formyl" UnimodAccession="122" IsOriginalUnimodModification="True" DeltaMass="27.994915" DeltaAverageMass="28.0101" IsSubstitution="False" LeavingGroup="" Substitution="C O" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Formyl" Abbreviation="Formyl" UnimodAccession="122" IsOriginalUnimodModification="True" DeltaMass="27.994915" DeltaAverageMass="28.0101" IsSubstitution="False" LeavingGroup="" Substitution="C O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Artefact" />
+      <Target AminoAcid="S" Classification="Artefact" />
+      <Target AminoAcid="T" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Formyl" Abbreviation="Formyl" UnimodAccession="122" IsOriginalUnimodModification="True" DeltaMass="27.994915" DeltaAverageMass="28.0101" IsSubstitution="False" LeavingGroup="" Substitution="C O" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Artefact" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl:2H(6)13C(2)" Abbreviation="Dimethyl:2H(6)13C(2)" UnimodAccession="330" IsOriginalUnimodModification="True" DeltaMass="36.07567" DeltaAverageMass="36.0754" IsSubstitution="False" LeavingGroup="" Substitution="H(-2) 2H(6) 13C(2)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl:2H(6)13C(2)" Abbreviation="Dimethyl:2H(6)13C(2)" UnimodAccession="330" IsOriginalUnimodModification="True" DeltaMass="36.07567" DeltaAverageMass="36.0754" IsSubstitution="False" LeavingGroup="" Substitution="H(-2) 2H(6) 13C(2)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl:2H(6)13C(2)" Abbreviation="Dimethyl:2H(6)13C(2)" UnimodAccession="330" IsOriginalUnimodModification="True" DeltaMass="36.07567" DeltaAverageMass="36.0754" IsSubstitution="False" LeavingGroup="" Substitution="H(-2) 2H(6) 13C(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="R" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:13C(6)" Abbreviation="Label:13C(6)" UnimodAccession="188" IsOriginalUnimodModification="True" DeltaMass="6.020129" DeltaAverageMass="5.9559" IsSubstitution="False" LeavingGroup="" Substitution="C(-6) 13C(6)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="I" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="L" Classification="Isotopic_label" />
+      <Target AminoAcid="R" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:18O(2)" Abbreviation="Label:18O(2)" UnimodAccession="193" IsOriginalUnimodModification="True" DeltaMass="4.008491" DeltaAverageMass="3.9995" IsSubstitution="False" LeavingGroup="" Substitution="O(-2) 18O(2)" PositionType="Any_C_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Cte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl:2H(4)" Abbreviation="Dimethyl:2H(4)" UnimodAccession="199" IsOriginalUnimodModification="True" DeltaMass="32.056407" DeltaAverageMass="32.0778" IsSubstitution="False" LeavingGroup="" Substitution="2H(4) C(2)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl:2H(4)" Abbreviation="Dimethyl:2H(4)" UnimodAccession="199" IsOriginalUnimodModification="True" DeltaMass="32.056407" DeltaAverageMass="32.0778" IsSubstitution="False" LeavingGroup="" Substitution="2H(4) C(2)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dimethyl:2H(4)" Abbreviation="Dimethyl:2H(4)" UnimodAccession="199" IsOriginalUnimodModification="True" DeltaMass="32.056407" DeltaAverageMass="32.0778" IsSubstitution="False" LeavingGroup="" Substitution="2H(4) C(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="R" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iTRAQ4plex" Abbreviation="iTRAQ4plex" UnimodAccession="214" IsOriginalUnimodModification="True" DeltaMass="144.102063" DeltaAverageMass="144.1544" IsSubstitution="False" LeavingGroup="" Substitution="H(12) C(4) 13C(3) N 15N O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Isotopic_label" />
+      <Target AminoAcid="H" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="S" Classification="Isotopic_label" />
+      <Target AminoAcid="T" Classification="Isotopic_label" />
+      <Target AminoAcid="Y" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iTRAQ4plex" Abbreviation="iTRAQ4plex" UnimodAccession="214" IsOriginalUnimodModification="True" DeltaMass="144.102063" DeltaAverageMass="144.1544" IsSubstitution="False" LeavingGroup="" Substitution="H(12) C(4) 13C(3) N 15N O" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iTRAQ4plex" Abbreviation="iTRAQ4plex" UnimodAccession="214" IsOriginalUnimodModification="True" DeltaMass="144.102063" DeltaAverageMass="144.1544" IsSubstitution="False" LeavingGroup="" Substitution="H(12) C(4) 13C(3) N 15N O" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:18O(1)" Abbreviation="Label:18O(1)" UnimodAccession="258" IsOriginalUnimodModification="True" DeltaMass="2.004246" DeltaAverageMass="1.9998" IsSubstitution="False" LeavingGroup="" Substitution="O(-1) 18O" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="S" Classification="Isotopic_label" />
+      <Target AminoAcid="T" Classification="Isotopic_label" />
+      <Target AminoAcid="Y" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:18O(1)" Abbreviation="Label:18O(1)" UnimodAccession="258" IsOriginalUnimodModification="True" DeltaMass="2.004246" DeltaAverageMass="1.9998" IsSubstitution="False" LeavingGroup="" Substitution="O(-1) 18O" PositionType="Any_C_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Cte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:13C(6)15N(2)" Abbreviation="Label:13C(6)15N(2)" UnimodAccession="259" IsOriginalUnimodModification="True" DeltaMass="8.014199" DeltaAverageMass="7.9427" IsSubstitution="False" LeavingGroup="" Substitution="C(-6) 13C(6) N(-2) 15N(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:13C(6)15N(4)" Abbreviation="Label:13C(6)15N(4)" UnimodAccession="267" IsOriginalUnimodModification="True" DeltaMass="10.008269" DeltaAverageMass="9.9296" IsSubstitution="False" LeavingGroup="" Substitution="C(-6) 13C(6) N(-4) 15N(4)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="R" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Dioxidation" Abbreviation="Dioxidation" UnimodAccession="425" IsOriginalUnimodModification="True" DeltaMass="31.989829" DeltaAverageMass="31.9988" IsSubstitution="False" LeavingGroup="" Substitution="O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Post_translational" />
+      <Target AminoAcid="E" Classification="Chemical_derivative" />
+      <Target AminoAcid="F" Classification="Chemical_derivative" />
+      <Target AminoAcid="I" Classification="Chemical_derivative" />
+      <Target AminoAcid="K" Classification="Post_translational" />
+      <Target AminoAcid="L" Classification="Chemical_derivative" />
+      <Target AminoAcid="M" Classification="Post_translational" />
+      <Target AminoAcid="P" Classification="Post_translational" />
+      <Target AminoAcid="R" Classification="Post_translational" />
+      <Target AminoAcid="U" Classification="Multiple" />
+      <Target AminoAcid="V" Classification="Chemical_derivative" />
+      <Target AminoAcid="W" Classification="Chemical_derivative" />
+      <Target AminoAcid="Y" Classification="Post_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Label:2H(4)" Abbreviation="Label:2H(4)" UnimodAccession="481" IsOriginalUnimodModification="True" DeltaMass="4.025107" DeltaAverageMass="4.0246" IsSubstitution="False" LeavingGroup="" Substitution="H(-4) 2H(4)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="A" Classification="Isotopic_label" />
+      <Target AminoAcid="F" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="U" Classification="Isotopic_label" />
+      <Target AminoAcid="Y" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iTRAQ8plex" Abbreviation="iTRAQ8plex" UnimodAccession="730" IsOriginalUnimodModification="True" DeltaMass="304.20536" DeltaAverageMass="304.3074" IsSubstitution="False" LeavingGroup="" Substitution="H(24) C(7) 13C(7) N(3) 15N O(3)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iTRAQ8plex" Abbreviation="iTRAQ8plex" UnimodAccession="730" IsOriginalUnimodModification="True" DeltaMass="304.20536" DeltaAverageMass="304.3074" IsSubstitution="False" LeavingGroup="" Substitution="H(24) C(7) 13C(7) N(3) 15N O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Isotopic_label" />
+      <Target AminoAcid="H" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="S" Classification="Isotopic_label" />
+      <Target AminoAcid="T" Classification="Isotopic_label" />
+      <Target AminoAcid="Y" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iTRAQ8plex" Abbreviation="iTRAQ8plex" UnimodAccession="730" IsOriginalUnimodModification="True" DeltaMass="304.20536" DeltaAverageMass="304.3074" IsSubstitution="False" LeavingGroup="" Substitution="H(24) C(7) 13C(7) N(3) 15N O(3)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMT6plex" Abbreviation="TMT6plex" UnimodAccession="737" IsOriginalUnimodModification="True" DeltaMass="229.162932" DeltaAverageMass="229.2634" IsSubstitution="False" LeavingGroup="" Substitution="H(20) C(8) 13C(4) N 15N O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="H" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="S" Classification="Isotopic_label" />
+      <Target AminoAcid="T" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMT6plex" Abbreviation="TMT6plex" UnimodAccession="737" IsOriginalUnimodModification="True" DeltaMass="229.162932" DeltaAverageMass="229.2634" IsSubstitution="False" LeavingGroup="" Substitution="H(20) C(8) 13C(4) N 15N O(2)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMT6plex" Abbreviation="TMT6plex" UnimodAccession="737" IsOriginalUnimodModification="True" DeltaMass="229.162932" DeltaAverageMass="229.2634" IsSubstitution="False" LeavingGroup="" Substitution="H(20) C(8) 13C(4) N 15N O(2)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMT2plex" Abbreviation="TMT2plex" UnimodAccession="738" IsOriginalUnimodModification="True" DeltaMass="225.155833" DeltaAverageMass="225.2921" IsSubstitution="False" LeavingGroup="" Substitution="H(20) C(11) 13C N(2) O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="H" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="S" Classification="Isotopic_label" />
+      <Target AminoAcid="T" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMT2plex" Abbreviation="TMT2plex" UnimodAccession="738" IsOriginalUnimodModification="True" DeltaMass="225.155833" DeltaAverageMass="225.2921" IsSubstitution="False" LeavingGroup="" Substitution="H(20) C(11) 13C N(2) O(2)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMT2plex" Abbreviation="TMT2plex" UnimodAccession="738" IsOriginalUnimodModification="True" DeltaMass="225.155833" DeltaAverageMass="225.2921" IsSubstitution="False" LeavingGroup="" Substitution="H(20) C(11) 13C N(2) O(2)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Met-loss" Abbreviation="Met-loss" UnimodAccession="765" IsOriginalUnimodModification="True" DeltaMass="-131.040485" DeltaAverageMass="-131.1961" IsSubstitution="False" LeavingGroup="" Substitution="H(-9) C(-5) N(-1) O(-1) S(-1)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="M" Classification="Co_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="Met-loss+Acetyl" Abbreviation="Met-loss+Acetyl" UnimodAccession="766" IsOriginalUnimodModification="True" DeltaMass="-89.02992" DeltaAverageMass="-89.1594" IsSubstitution="False" LeavingGroup="" Substitution="H(-7) C(-3) N(-1) S(-1)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="M" Classification="Co_translational" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="NEM:2H(5)" Abbreviation="NEM:2H(5)" UnimodAccession="776" IsOriginalUnimodModification="True" DeltaMass="130.079062" DeltaAverageMass="130.1561" IsSubstitution="False" LeavingGroup="" Substitution="H(2) 2H(5) C(6) N O(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="iodoTMT6plex" Abbreviation="iodoTMT6plex" UnimodAccession="1342" IsOriginalUnimodModification="True" DeltaMass="329.226595" DeltaAverageMass="329.3825" IsSubstitution="False" LeavingGroup="" Substitution="H(28) C(12) 13C(4) N(3) 15N O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="C" Classification="Chemical_derivative" />
+      <Target AminoAcid="D" Classification="Chemical_derivative" />
+      <Target AminoAcid="E" Classification="Chemical_derivative" />
+      <Target AminoAcid="H" Classification="Chemical_derivative" />
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMTpro" Abbreviation="TMTpro" UnimodAccession="2016" IsOriginalUnimodModification="True" DeltaMass="304.207146" DeltaAverageMass="304.3127" IsSubstitution="False" LeavingGroup="" Substitution="H(25) C(8) 13C(7) N 15N(2) O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="H" Classification="Isotopic_label" />
+      <Target AminoAcid="K" Classification="Isotopic_label" />
+      <Target AminoAcid="S" Classification="Isotopic_label" />
+      <Target AminoAcid="T" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMTpro" Abbreviation="TMTpro" UnimodAccession="2016" IsOriginalUnimodModification="True" DeltaMass="304.207146" DeltaAverageMass="304.3127" IsSubstitution="False" LeavingGroup="" Substitution="H(25) C(8) 13C(7) N 15N(2) O(3)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMTpro" Abbreviation="TMTpro" UnimodAccession="2016" IsOriginalUnimodModification="True" DeltaMass="304.207146" DeltaAverageMass="304.3127" IsSubstitution="False" LeavingGroup="" Substitution="H(25) C(8) 13C(7) N 15N(2) O(3)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Isotopic_label" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMTpro_zero" Abbreviation="TMTpro_zero" UnimodAccession="2017" IsOriginalUnimodModification="True" DeltaMass="295.189592" DeltaAverageMass="295.3773" IsSubstitution="False" LeavingGroup="" Substitution="H(25) C(15) N(3) O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="H" Classification="Chemical_derivative" />
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+      <Target AminoAcid="S" Classification="Chemical_derivative" />
+      <Target AminoAcid="T" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMTpro_zero" Abbreviation="TMTpro_zero" UnimodAccession="2017" IsOriginalUnimodModification="True" DeltaMass="295.189592" DeltaAverageMass="295.3773" IsSubstitution="False" LeavingGroup="" Substitution="H(25) C(15) N(3) O(3)" PositionType="Protein_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="TMTpro_zero" Abbreviation="TMTpro_zero" UnimodAccession="2017" IsOriginalUnimodModification="True" DeltaMass="295.189592" DeltaAverageMass="295.3773" IsSubstitution="False" LeavingGroup="" Substitution="H(25) C(15) N(3) O(3)" PositionType="Any_N_Terminus" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="Nte" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSSO Tris" Abbreviation="DSSO:Tris" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="279.07766" DeltaAverageMass="279.31161" IsSubstitution="False" LeavingGroup="" Substitution="H(17) C(10) O(6) NS" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSSO Hydrolyzed" Abbreviation="DSSO:H2O" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="176.01433" DeltaAverageMass="176.19165" IsSubstitution="False" LeavingGroup="" Substitution="H(8) C(6) O(4) S" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSSO Amidated" Abbreviation="DSSO:NH3" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="175.03031" DeltaAverageMass="175.20692" IsSubstitution="False" LeavingGroup="" Substitution="H(9) C(6) O(3) NS" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSSO" Abbreviation="DSSO" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="158.00376" DeltaAverageMass="158.17636" IsSubstitution="False" LeavingGroup="" Substitution="H(6) C(6) O(3) S" PositionType="Any" IsCrossLink="True">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments&gt;
+    &lt;CrosslinkFragment Name="alkene" Abbreviation="alkene" DeltaMonoisotopicMass="54.01056" DeltaAverageMass="54.04749" Substitution="C3H2O" Target="K" /&gt;
+    &lt;CrosslinkFragment Name="thiol" Abbreviation="thiol" DeltaMonoisotopicMass="85.98264" DeltaAverageMass="86.11358" Substitution="C3H2OS" Target="K" /&gt;
+  &lt;/CrosslinkFragments&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments&gt;
+    &lt;ConnectedCrosslinkFragments&gt;
+      &lt;Fragment1 Name="alkene" Abbreviation="alkene" DeltaMonoisotopicMass="54.01056" DeltaAverageMass="54.04749" Substitution="C3H2O" Target="K" /&gt;
+      &lt;Fragment2 Name="thiol" Abbreviation="thiol" DeltaMonoisotopicMass="85.98264" DeltaAverageMass="86.11358" Substitution="C3H2OS" Target="K" /&gt;
+    &lt;/ConnectedCrosslinkFragments&gt;
+  &lt;/ConnectedFragments&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Cid_Cleavable_Crosslink" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSS Tris" Abbreviation="DSS:Tris" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="259.141973" DeltaAverageMass="259.29935" IsSubstitution="False" LeavingGroup="" Substitution="H(21) C(12) O(5) N" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSS Hydrolyzed" Abbreviation="DSS:H2O" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="156.078644" DeltaAverageMass="156.17939" IsSubstitution="False" LeavingGroup="" Substitution="H(12) C(8) O(3)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSS Amidated" Abbreviation="DSS:NH3" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="155.09463" DeltaAverageMass="155.19467" IsSubstitution="False" LeavingGroup="" Substitution="H(13) C(8) O(2) N" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSS" Abbreviation="DSS" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="138.06808" DeltaAverageMass="138.1641" IsSubstitution="False" LeavingGroup="" Substitution="H(10) C(8) O(2)" PositionType="Any" IsCrossLink="True">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons&gt;
+    &lt;DiagnosticIon Name="DSS/BS3" Formula="C18H29N2O2" DeltaMonoisotopicMass="305.2229" DeltaAverageMass="305.4358" /&gt;
+  &lt;/DiagnosticIons&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs&gt;
+    &lt;CrosslinkTargetPair LeftTarget="K" RightTarget="K" /&gt;
+  &lt;/CrosslinkTargetPairs&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Crosslink" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="PhoX" Abbreviation="PhoX" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="209.97181" DeltaAverageMass="210.0805" IsSubstitution="False" LeavingGroup="" Substitution="H(3)C(8)O(5)P" PositionType="Any" IsCrossLink="True">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons&gt;
+    &lt;DiagnosticIon Name="PhoX" Formula="C18H22N2O5P" DeltaMonoisotopicMass="377.1266" DeltaAverageMass="377.3522" /&gt;
+  &lt;/DiagnosticIons&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs&gt;
+    &lt;CrosslinkTargetPair LeftTarget="K" RightTarget="K" /&gt;
+  &lt;/CrosslinkTargetPairs&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Crosslink" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="PhoX Amidated" Abbreviation="PhoX:NH3" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="226.99836" DeltaAverageMass="227.11106" IsSubstitution="False" LeavingGroup="" Substitution="H(6)C(8) N O(5)P" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="PhoX Hydrolyzed" Abbreviation="Phox:H2O" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="227.98237" DeltaAverageMass="228.09578" IsSubstitution="False" LeavingGroup="" Substitution="H(5)C(8)O(6)P" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="PhoX Tris" Abbreviation="PhoX:Tris" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="331.0457" DeltaAverageMass="331.21575" IsSubstitution="False" LeavingGroup="" Substitution="H(14)C(12)O(8)NP" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSBSO" Abbreviation="DSBSO" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="308.03883" DeltaAverageMass="308.37375" IsSubstitution="False" LeavingGroup="" Substitution="H(16)C(11)O(6)S(2)" PositionType="Any" IsCrossLink="True">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments&gt;
+    &lt;CrosslinkFragment Name="DSBSO alkene" Abbreviation="alkene" DeltaMonoisotopicMass="54.01056" DeltaAverageMass="54.04749" Substitution="C3H2O" Target="K" /&gt;
+    &lt;CrosslinkFragment Name="DSBSO thiol" Abbreviation="thiol" DeltaMonoisotopicMass="236.0177" DeltaAverageMass="236.31097" Substitution="C8H12O4S2" Target="K" /&gt;
+    &lt;CrosslinkFragment Name="DSBSO sulfenic acid" Abbreviation="sulfenic acid" DeltaMonoisotopicMass="254.02826" DeltaAverageMass="254.32625" Substitution="C8H14O5S2" Target="K" /&gt;
+  &lt;/CrosslinkFragments&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments&gt;
+    &lt;ConnectedCrosslinkFragments&gt;
+      &lt;Fragment1 Name="DSBSO alkene" Abbreviation="alkene" DeltaMonoisotopicMass="54.01056" DeltaAverageMass="54.04749" Substitution="C3H2O" Target="K" /&gt;
+      &lt;Fragment2 Name="DSBSO thiol" Abbreviation="thiol" DeltaMonoisotopicMass="236.0177" DeltaAverageMass="236.31097" Substitution="C8H12O4S2" Target="K" /&gt;
+    &lt;/ConnectedCrosslinkFragments&gt;
+    &lt;ConnectedCrosslinkFragments&gt;
+      &lt;Fragment1 Name="DSBSO alkene" Abbreviation="alkene" DeltaMonoisotopicMass="54.01056" DeltaAverageMass="54.04749" Substitution="C3H2O" Target="K" /&gt;
+      &lt;Fragment2 Name="DSBSO sulfenic acid" Abbreviation="sulfenic acid" DeltaMonoisotopicMass="254.02826" DeltaAverageMass="254.32625" Substitution="C8H14O5S2" Target="K" /&gt;
+    &lt;/ConnectedCrosslinkFragments&gt;
+  &lt;/ConnectedFragments&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Cid_Cleavable_Crosslink" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSBSO Amidated" Abbreviation="DSBSO:NH3" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="325.06538" DeltaAverageMass="325.40431" IsSubstitution="False" LeavingGroup="" Substitution="H(19)C(11)O(6)NS(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSBSO Hydrolyzed" Abbreviation="DSBSO:H2O" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="326.04939" DeltaAverageMass="326.38903" IsSubstitution="False" LeavingGroup="" Substitution="H(18)C(11)O(7)S(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="DSBSO Tris" Abbreviation="DSBSO:Tris" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="429.11272" DeltaAverageMass="429.509" IsSubstitution="False" LeavingGroup="" Substitution="H(27)C(15)O(9)NS(2)" PositionType="Any" IsCrossLink="False">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs /&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="K" Classification="Chemical_derivative" />
+    </ModificationTargets>
+  </Modification>
+  <Modification Version="1" Name="EDC" Abbreviation="EDC" UnimodAccession="0" IsOriginalUnimodModification="False" DeltaMass="-18.01056" DeltaAverageMass="-18.01529" IsSubstitution="False" LeavingGroup="" Substitution="H(-2)O(-1)" PositionType="Any" IsCrossLink="True">
+    <ExtendedProperties>&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;AminoAcidModificationExtendedProperties xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;CrosslinkFragments /&gt;
+  &lt;Monolinks /&gt;
+  &lt;ConnectedFragments /&gt;
+  &lt;DiagnosticIons /&gt;
+  &lt;AdditionalValues /&gt;
+  &lt;CrosslinkTargetPairs&gt;
+    &lt;CrosslinkTargetPair LeftTarget="K" RightTarget="D" /&gt;
+    &lt;CrosslinkTargetPair LeftTarget="K" RightTarget="E" /&gt;
+  &lt;/CrosslinkTargetPairs&gt;
+&lt;/AminoAcidModificationExtendedProperties&gt;</ExtendedProperties>
+    <ModificationTargets>
+      <Target AminoAcid="D" Classification="Crosslink" />
+      <Target AminoAcid="E" Classification="Crosslink" />
+      <Target AminoAcid="K" Classification="Crosslink" />
+    </ModificationTargets>
+  </Modification>
+</Modifications>
